@@ -1,1 +1,4 @@
 # MultimediaCerdas
+NAMA  : SINGGIH ROHNIADI ,
+KELAS : 6-D , 
+NIM   : 2305101075
